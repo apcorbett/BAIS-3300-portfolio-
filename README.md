@@ -1,5 +1,5 @@
 # BAIS-3300-portfolio-
-#My BAIS:3300 personal webpage repository
+My BAIS:3300 personal webpage repository
 
 This repository contains the source code for my personal webpage portfolio, created for my **Digital Product Management** course.
 
